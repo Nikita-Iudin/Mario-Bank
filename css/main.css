@@ -1,0 +1,125 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v37_2 {
+  width: 100%;
+  height: 3280px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v37_3 {
+  width: 100%;
+  height: 100%;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 238px;
+  left: 0px;
+  overflow: hidden;
+}
+.v37_4 {
+  width: 100%;
+  height: 697px;
+  background: url("../images/v37_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1470px;
+  left: 57px;
+  overflow: hidden;
+}
+.v37_5 {
+  width: 829px;
+  color: rgba(50,255,0,1);
+  position: absolute;
+  top: 2074px;
+  left: 446px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 75px;
+  opacity: 1;
+  text-align: left;
+}
+.v37_6 {
+  width: 596px;
+  color: rgba(0,255,71,1);
+  position: absolute;
+  top: 2181px;
+  left: 458px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 75px;
+  opacity: 1;
+  text-align: left;
+}
+.v37_7 {
+  width: 627px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1030px;
+  left: 546px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 75px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-20deg);
+}
+.v37_8 {
+  width: 100%;
+  height: 383px;
+  background: rgba(255,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 2689px;
+  left: 151px;
+  overflow: hidden;
+}
+.v37_9 {
+  width: 490px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 2759px;
+  left: 270px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 75px;
+  opacity: 1;
+  text-align: left;
+}
+.v37_10 {
+  width: 546px;
+  height: 578px;
+  background: url("../images/v37_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2546px;
+  left: 728px;
+  overflow: hidden;
+}
+.v37_11 {
+  width: 955px;
+  height: 741px;
+  background: url("../images/v37_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 366px;
+  left: 57px;
+  transform: rotate(-22deg);
+  overflow: hidden;
+}
